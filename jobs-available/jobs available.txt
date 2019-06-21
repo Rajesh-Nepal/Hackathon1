@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title>
+			Test
+		</title>
+		
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	</head>
+	<body background="background.jpg" >
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9"style="border:1px solid black">
+					<div class="row" style="border-bottom:1px solid black">
+						<div class="col-md-12">
+							<h1>JOBS AVAILABLE FOR YOU</h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<u>Notifications</u>
+							<ul>
+								<li>
+									<p>trisara is conducting a event and is in need for a bassist......................................................</p>
+									<a href="#">View Profile</a>
+								</li>
+                <li>
+                  <p>road house cafe is in search of a singer for a event.......................</p> 
+                  <a href='#'>view profile</a>
+                </li>
+                
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3" style="border:1px solid black">
+					<div class="row" style="border-bottom:1px solid black">
+						<div class="col-md-12">
+							<img class="" style="width:100%" src="img_avatar.png"/>
+							RAJESH
+						</div>
+					</div>
+					<div class="row" style="border-bottom:1px solid black">
+						<div class="col-md-12">
+							<img class="" style="width:100%" src="videobutton.png"/>
+							bass tapping and epic riffs------------------------------
+							<hr>
+							<img class="" style="width:100%" src="videobutton.png"/>
+							solo guitar cover of a -------------
+						</div>
+					</div>
+					<div class="row" style="border-bottom:1px black">
+						<button class="btn-primary">Upload more </button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
